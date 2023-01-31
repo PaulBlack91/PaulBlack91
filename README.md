@@ -3,7 +3,7 @@
 ### Hola un gusto verte 👋. 
 
 
-## Acerca de mi en código 😉
+## Acerca de mi, en código 😉
 ```js 
 const PaulBlack91={  
   from:'Córdoba, Argentina',
